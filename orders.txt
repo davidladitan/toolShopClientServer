@@ -1,0 +1,5 @@
+ORDER ID: 66672
+
+Item description: Barn Bins
+Amount ordered: 34
+SupplierID: 8006
